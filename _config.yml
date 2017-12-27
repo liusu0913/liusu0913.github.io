@@ -17,9 +17,6 @@ links:
   - name:         Vue
     url:          /vue
     external:     false
-  - name:         归档
-    url:          /archives
-    external:     false
   - name:         标签
     url:          /tags
     external:     false
