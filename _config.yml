@@ -17,8 +17,8 @@ links:
   - name:         Vue
     url:          /vue
     external:     false
-  - name:         JS
-    url:          /JS
+  - name:         javascript
+    url:          /js
     external:     false
   - name:         标签
     url:          /tags
