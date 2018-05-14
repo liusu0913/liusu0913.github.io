@@ -17,7 +17,7 @@ links:
   - name:         Vue
     url:          /vue
     external:     false
-  - name:         javascript
+  - name:         JavaScript
     url:          /javascript
     external:     false
   - name:         标签
