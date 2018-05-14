@@ -3,9 +3,9 @@ layout: blog
 javascript: true
 background-image: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514897300420&di=98b95608be22799574c540dcb1d23ea2&imgtype=0&src=http%3A%2F%2Fpic.92to.com%2F201612%2F14%2F2016128110105715.jpg
 category: javascript
-title: 性能优化
+title: JS性能优化方法
 tags:
-- javascript
+- js性能
 ---
 
 ## 加载和执行
